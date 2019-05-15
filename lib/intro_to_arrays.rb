@@ -5,7 +5,7 @@ end
 
 def array_with_two_elements
   new_array = [1,2]
-  @my_array=array_with_two_elements
+  new_array
 end
 
 def first_element(my_first_element)
