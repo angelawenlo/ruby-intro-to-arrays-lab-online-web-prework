@@ -9,7 +9,7 @@ def array_with_two_elements
 end
 
 def first_element(my_first_element)
-  my_first_element = @taylor_swift[0] 
+  my_first_element = @taylor_swift[0]
 end
 
 def third_element(my_third_element)
@@ -23,7 +23,7 @@ end
 def first_element_with_array_methods(first_country)
   first_country = @south_east_asia.first
 end
-    
+
 def last_element_with_array_methods(last_country)
   last_country = @south_east_asia.last
 end
